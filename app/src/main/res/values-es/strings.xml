@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Primer Proyecto Andorid</string>
+    <string name="texto_bienvenida">Bienvenido</string>
+    <string name="texto_boton_inicio">Entrar</string>
+</resources>
